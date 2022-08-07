@@ -35,4 +35,4 @@ Analisis de datos basado en los 400 videojuegos mas vendidos entre 1977 y 2020 c
 
 ---
 
-**Hecho en SQL**
+**Hecho en SQL con Jupyter Notebook**
