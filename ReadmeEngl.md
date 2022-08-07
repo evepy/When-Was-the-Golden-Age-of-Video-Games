@@ -1,7 +1,7 @@
 # When Was The Golden Age Of VideoGames
 <div align="center">
 <img src="https://i.pinimg.com/originals/17/05/e3/1705e30744d6d769ee9411008f2564aa.jpg" style="max-width: 100%;" width="600" height="315"><hr>
-<a href="https://google.com](https://github.com/evepy/When-Was-the-Golden-Age-of-Video-Games/blob/40f5dac8c4f7acf90f67b50d1f596a214fc25ba1/README.md">Español</a> 
+<a href="https://github.com/evepy/When-Was-the-Golden-Age-of-Video-Games/blob/40f5dac8c4f7acf90f67b50d1f596a214fc25ba1/README.md">Español</a> 
 
 </div>
 
