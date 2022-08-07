@@ -1,37 +1,39 @@
+# When Was The Golden Age Of VideoGames
 <div align="center">
-<a href="https://nostalgic-css.github.io/NES.css/" target="_blank"><img src="https://google.com" style="max-width: 100%;" width="600" height="315"</a>
-<a href="https://google.com">English</a> 
+<img src="https://i.pinimg.com/originals/17/05/e3/1705e30744d6d769ee9411008f2564aa.jpg" style="max-width: 100%;" width="600" height="315"><hr>
+<a href="https://google.com](https://github.com/evepy/When-Was-the-Golden-Age-of-Video-Games/blob/40f5dac8c4f7acf90f67b50d1f596a214fc25ba1/README.md">Español</a> 
 
 </div>
 
-### Indice
-- Descripción del proyecto
-- Lista de tareas
-- Conclusiones
-- Bibliografia
+### Index
+- Project description
+- Task list
+- Conclusions
+- Bibliography
 
-## Descripción del proyecto
-Analisis de datos basado en los 400 videojuegos mas vendidos entre 1977 y 2020 comparando ventas, reseñas y publico. El objetivo es identificar los años de mayor impacto del mercado de videojuegos.
+## Project Description
+data analytics based on the 400 best-selling video games between 1977 and 2020 comparing sales, reviews and audiences. The aim is to identify the years with the greatest impact on the video game market.
 
-## Lista de tareas
-1. Los diez videojuegos más vendidos
-2. Busqueda de datos faltantes
-3. Mejores años para los videojuegos segun los criticos
-4. Filtro de videojuegos con mejor puntaje segun los criticos
-5. Años que no estan en la "lista de juegos favoritos" de criticos
-6. Mejores años para los videojuegos segun los jugadores
-7. Años que tanto jugadores como críticos amaron
-8. Mejores ventas anuales de videojuegos
+## Task List
+  
+1. The ten best-selling video games
+2. Missing review scores
+3. Years that video game critics loved
+4. Was 1982 really that great?
+5. Years that dropped off the critics' favorites list
+6. Years video game players loved
+7. Years that both players and critics loved
+8. Sales in the best video game years
 
-## Conclusiones
+## Conclusions
 
-## Bibliografia
+## Bibliography
 
-| Sitio | Link |
+| Website | Link |
 | ------ | ------ |
 | DataCamp | https://app.datacamp.com/learn/courses/joining-data-in-sql |
 | Kaggle | https://www.kaggle.com/holmjason2/videogamedata|
 
 ---
 
-**Hecho en SQL**
+**Made in SQL with Jupyter Notebook**
