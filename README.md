@@ -26,6 +26,8 @@ Analisis de datos basado en los 400 videojuegos mas vendidos entre 1977 y 2020 c
 
 ## Conclusiones
 
+El proyecto "When-Was-the-Golden-Age-of-Video-Games" de la plataforma DataCamp tiene como objetivo consolidar los conocimientos adquiridos en los módulos de manipulación de datos y poner en práctica lo aprendido, como unión de tablas, teoría de conjuntos, filtrado, agrupación y ordenación de datos. Trabajar en el proyecto me permitió solidificar mi conocimiento de las consultas SQL, presentar los objetivos del proyecto de manera clara y comprensible, reforzar mis puntos débiles de SQL y documentar el proyecto, así como mi proceso de aprendizaje.
+
 ## Bibliografia
 
 | Sitio | Link |
