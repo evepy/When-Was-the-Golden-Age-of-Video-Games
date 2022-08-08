@@ -27,6 +27,9 @@ data analytics based on the 400 best-selling video games between 1977 and 2020 c
 
 ## Conclusions
 
+The "When-Was-the-Golden-Age-of-Video-Games" project on the DataCamp platform aims to consolidate the knowledge acquired in the data manipulation modules and to put into practice what I have learned, such as table joins, set theory, filtering, grouping and sorting data. Working on the project allowed me to solidify my knowledge of SQL queries, present the project objectives in a clear and understandable way, reinforce my SQL weaknesses and document the project as well as my learning process.
+
+Translated with www.DeepL.com/Translator (free version)
 ## Bibliography
 
 | Website | Link |
